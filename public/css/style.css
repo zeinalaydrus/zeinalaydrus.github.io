@@ -1,0 +1,35 @@
+.jumbotron {
+    background-color: #b5d1ff
+}
+
+body {
+    min-height: 2800px;
+}
+
+#projects {
+    margin-top: -180px;
+    background-color: #b5d1ff
+}
+
+
+#contact {
+    margin-top: -60px;
+}
+
+footer {
+    background-color: #00796b;
+}
+
+section {
+    padding-top: 5.5rem;
+}
+
+.my-element {
+    display: inline-block;
+    margin: 0 0.5rem;
+
+    animation: bounce;
+    /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;
+    /* don't forget to set a duration! */
+}
